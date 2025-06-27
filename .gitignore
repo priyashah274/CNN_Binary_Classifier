@@ -11,9 +11,6 @@ __pycache__/
 # Ignore Jupyter/IPython notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore model checkpoints if needed
-*.pth
-
 # Ignore system files
 .DS_Store
 

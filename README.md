@@ -24,7 +24,7 @@ Users can interact with the model through a **Streamlit web application**, where
 
 ## 📊 Training & Evaluation
 
-- Trained on ~25,000 labeled images  
+- Trained on ~10,000 labeled images  
 - Test accuracy: **~92%**  
 - Includes training curves for loss and accuracy  
 - Model saved as `binary_classifier.pth` for inference
