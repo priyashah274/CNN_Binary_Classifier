@@ -31,9 +31,12 @@ Users can interact with the model through a **Streamlit web application**, where
 
 ---
 
-## 🌐 Live Web App (Optional)
+## 🌐 Try It Live
 
-A **Streamlit app** is included that allows users to upload an image and get real-time classification.
+🖼️ Upload your own image and see if it’s a cat or a dog!
+
+🔗 [Launch Web App](https://cnnbinaryclassifier.streamlit.app)
+
 
 To run locally:
 ```bash
